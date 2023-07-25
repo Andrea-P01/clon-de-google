@@ -6,11 +6,11 @@ Puedes poner en práctica tus habilidades revisando y utilizando el código a co
 
 ## ÍNDICE
 
-* [1. INTRO](URL)
-* [2. DEMO](URL)
-* [3. ¿QUÉ CONSTRUIRÁS?](URL)
-* [4. OBJETIVOS DE APRENDIZAJE](URL)
-* [5. REQUISITOS](URL)
+* [1. INTRO](https://github.com/Andrea-P01/clon-de-google/edit/main/README.md#1intro)
+* [2. DEMO](https://github.com/Andrea-P01/clon-de-google/edit/main/README.md#2-demo)
+* [3. ¿QUÉ CONSTRUIRÁS?](https://github.com/Andrea-P01/clon-de-google/edit/main/README.md#3-qu%C3%A9-construir%C3%A1s)
+* [4. OBJETIVOS DE APRENDIZAJE](https://github.com/Andrea-P01/clon-de-google/edit/main/README.md#4-objetivos-de-aprendizaje)
+* [5. REQUISITOS](https://github.com/Andrea-P01/clon-de-google/edit/main/README.md#5-requisitos)
 
 ****
 
@@ -27,7 +27,6 @@ La idea es inspirarte con esta demostración de proyecto.
 
 ![imagen]("IMAGENES/GOOGLE_LOGO.png")
 
-
 ## 3. ¿QUÉ CONSTRUIRÁS?
 
 Este proyecto está enfocado en construir la interfaz estática de Google.
@@ -40,7 +39,7 @@ Se te pide que sea una sola página que contenga las secciones siguientes:
   - **c. Footer**
     Sección que incluye hipervínculos al final de la página.
 
-![imagen]("URL")
+![imagen]("IMAGENES/CLON_GOOGLE.png")
 
 ****
 
