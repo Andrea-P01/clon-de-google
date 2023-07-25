@@ -6,11 +6,11 @@ Puedes poner en práctica tus habilidades revisando y utilizando el código a co
 
 ## ÍNDICE
 
-* [1. INTRO](https://github.com/Andrea-P01/clon-de-google/edit/main/README.md#1intro)
-* [2. DEMO](https://github.com/Andrea-P01/clon-de-google/edit/main/README.md#2-demo)
-* [3. ¿QUÉ CONSTRUIRÁS?](https://github.com/Andrea-P01/clon-de-google/edit/main/README.md#3-qu%C3%A9-construir%C3%A1s)
-* [4. OBJETIVOS DE APRENDIZAJE](https://github.com/Andrea-P01/clon-de-google/edit/main/README.md#4-objetivos-de-aprendizaje)
-* [5. REQUISITOS](https://github.com/Andrea-P01/clon-de-google/edit/main/README.md#5-requisitos)
+* [1. INTRO](https://github.com/Andrea-P01/clon-de-google/blob/main/README.md#1intro)
+* [2. DEMO](https://github.com/Andrea-P01/clon-de-google/blob/main/README.md#2-demo)
+* [3. ¿QUÉ CONSTRUIRÁS?](https://github.com/Andrea-P01/clon-de-google/blob/main/README.md#3-qu%C3%A9-construir%C3%A1s)
+* [4. OBJETIVOS DE APRENDIZAJE](https://github.com/Andrea-P01/clon-de-google/blob/main/README.md#4-objetivos-de-aprendizaje)
+* [5. REQUISITOS](https://github.com/Andrea-P01/clon-de-google/blob/main/README.md#5-requisitos)
 
 ****
 
