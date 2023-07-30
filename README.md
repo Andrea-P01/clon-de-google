@@ -25,7 +25,7 @@ La idea es inspirarte con esta demostración de proyecto.
 
 **Probablemente no te quede 100% idéntico, pero puedes darle tu propio estilo 😎**, conoce, aprende y diseña futuro (a) programador (a), enséñale al mundo real tu mundo digital. 🌍💻
 
-![imagen]("./../IMAGENES/GOOGLE_LOGO.png")
+![Imagen](IMAGENES/GOOGLE_LOGO.png)
 
 ## 3. ¿QUÉ CONSTRUIRÁS?
 
@@ -39,7 +39,7 @@ Se te pide que sea una sola página que contenga las secciones siguientes:
   - **c. Footer**
     Sección que incluye hipervínculos al final de la página.
 
-![imagen]("IMAGENES/CLON_GOOGLE.png")
+![Imagen](IMAGENES/CLON_GOOGLE.png)
 
 ****
 
